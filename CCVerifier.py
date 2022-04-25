@@ -15,10 +15,10 @@ for i in range(len(splitted_CC_lst)): #creates a range between 0 and the length 
 
 total = sum(splitted_CC_lst) # sum list after
 
-if total % 10 == 0: #Accordnig to Luhn's algorithm, if the sum of the list ends with a 0, it's a valid CC
+if total % 10 == 0: #According to Luhn's algorithm, if the sum of the list ends with a 0, it's a valid CC
     print('This is a valid CC number')
 else:
-    print('This is an invalid CC number') #Accordnig to Luhn's algorithm, if the sum of the list does not end with a 0, it's an invalid CC
+    print('This is an invalid CC number') #According to Luhn's algorithm, if the sum of the list does not end with a 0, it's an invalid CC
 
 #Try your own CC number... >:)
 
