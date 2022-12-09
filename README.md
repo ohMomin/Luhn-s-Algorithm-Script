@@ -7,4 +7,4 @@ Insert any Credit Card number you want to check if the number is valid or invali
 
 This code uses Luhn's Algorithm to check if the CC number is real or fake. Enjoy!
 
-Programmed by me. 
+Programmed by Momin Nadeem.
